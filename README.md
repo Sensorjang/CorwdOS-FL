@@ -11,6 +11,9 @@
 
 ## Introduction
 **2023CrowdOS挑战赛:赛题A作品<br/>**
+**2023 CrowdOS Challenge: Question A Work<br/>**
+**队伍名称:WUST<br/>**
+**Team Name: WUST<br/><br/>**
 [Computer Science and Technology, School of Computer Science and Technology, WUST, P. Qi(Sensorjang@wust.edu.cn)]<br/>
 
 ## Prerequisites
