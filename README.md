@@ -39,5 +39,5 @@ Then access the project homepage by accessing index.jsp.<br/>
 - k-means聚类算法 k-means clustering algorithm
 
 ## License
-本项目基于[MIT License](LICENSE)开源许可证开源<br/>
-This project is released under the [MIT License](LICENSE).
+本项目基于[Apache-2.0 License](LICENSE)开源许可证开源<br/>
+This project is released under the [Apache-2.0 License](LICENSE).
