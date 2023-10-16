@@ -2,8 +2,8 @@
 <h1 align="center">CrowdOS based Federated Learning Framework</h1>
 
 ![GitHub](https://img.shields.io/github/license/Sensorjang/CorwdOS-FL)
-![Version](https://img.shields.io/badge/Version-V1.0.1-yellow)
-![Language](https://img.shields.io/badge/Language-Java-blue)
+![Version](https://img.shields.io/badge/Version-V1.0.0-yellow)
+![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Build](https://img.shields.io/badge/Build-passing-lightgreen)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-red)
 
